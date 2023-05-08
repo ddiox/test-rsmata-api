@@ -19,4 +19,4 @@ Respon : Perlu dilakukan dekripsi disisi client
 
 - Decrypt
 
-Toos: Golang
+- Tools: Golang
